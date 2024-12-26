@@ -56,6 +56,11 @@
 			"graphics/Star_and_City/Argalia.png",
 			"graphics/Star_and_City/Hana_Association/Olivier.png",
 			"graphics/Star_and_City/Baral.png",
+			"graphics/Book_Librarian/Chesed.png",
+			"graphics/Book_Librarian/Hokma.png",
+			"graphics/Book_Librarian/Netzach.png",
+			"graphics/Book_Librarian/Roland.png",
+			"graphics/Book_Librarian/Yesod.png",
 		],
 		"standard_female":[
 			"graphics/Star_and_City/Cane_Office/Martina.png",
@@ -101,6 +106,16 @@
 			"graphics/Star_and_City/Hana_Association/Harold.png",
 			"graphics/Star_and_City/Zena.png",
 			"graphics/Star_and_City/Luda.png",
+			"graphics/Star_and_City/Fucker.png",
+			"graphics/Book_Librarian/Angela.png",
+			"graphics/Book_Librarian/Angela_Crow.png",
+			"graphics/Book_Librarian/Angela_LCorp.png",
+			"graphics/Book_Librarian/Binah.png",
+			"graphics/Book_Librarian/Binah_Arbiter.png",
+			"graphics/Book_Librarian/Gebura.png",
+			"graphics/Book_Librarian/Hod.png",
+			"graphics/Book_Librarian/Malkuth.png",
+			"graphics/Book_Librarian/Tiphereth.png",
 		],
     }
 }
