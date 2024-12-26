@@ -1,0 +1,26 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/Cane_Office/Bada.png",
+			"graphics/portraits/Cane_Office/Nemo.png",
+			"graphics/portraits/Gaze_Office/Alloc.png",
+			"graphics/portraits/Gaze_Office/Bono.png",
+			"graphics/portraits/Rats/Pete.png",
+			"graphics/portraits/Rats/Mang-chi.png",
+			"graphics/portraits/Yuns_Office/Yun.png",
+			"graphics/portraits/Yuns_Office/Finn.png",
+			"graphics/portraits/Iron_Bros/Arnold.png",
+			"graphics/portraits/Iron_Bros/Mo.png",
+			"graphics/portraits/Hook_Office/Taein.png",
+			"graphics/portraits/Hook_Office/McCullin.png",
+		],
+		"standard_female":[
+			"graphics/portraits/Cane_Office/Martina.png",
+			"graphics/portraits/Gaze_Office/Dalloc.png",
+			"graphics/portraits/Rats/Lenny.png",
+			"graphics/portraits/Yuns_Office/Eri.png",
+			"graphics/portraits/Iron_Bros/Consta.png",
+			"graphics/portraits/Hook_Office/Naoki.png",
+		],
+    }
+}

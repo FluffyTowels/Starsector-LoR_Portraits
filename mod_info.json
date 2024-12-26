@@ -1,0 +1,9 @@
+{
+	"id":"libraryofruinaportraits", # internal id
+	"name":"LoR Portrait Pack", # displayed to the player
+	"author": "FluffyTowels",
+	"version":"v1",
+	"description":"-",
+	"gameVersion":"0.97a",
+        "utility": "true",
+}
