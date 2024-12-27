@@ -2,7 +2,7 @@
 	"id":"libraryofruinaportraits",
 	"name":"LoR Portrait Pack",
 	"author": "FluffyTowels",
-	"version":"1.0.0",
+	"version":"1.1.0",
 	"description":"A portrait pack containing all of Library of Ruina characters, except the ones that don't fit starsector *too* much.",
 	"gameVersion":"0.97a",
         "utility": "false",
